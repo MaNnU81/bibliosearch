@@ -6,7 +6,7 @@
     padding-top: 40px;
     padding-left: 140px;
     font-family: "Ms Madi", cursive;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 h1{
@@ -91,3 +91,7 @@ button::before {
     box-shadow: 0 0 7px 0 #9013fe, 0 0 5px 2px #d64eff, inset 0 0 7px 0 #9013fe, inset 0 0 5px 1px #d64eff;
   }
   
+  h3{
+     margin-top: 0px;
+
+  }
